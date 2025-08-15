@@ -1,8 +1,8 @@
 {
   "smtp_host": "smtp.gmail.com",
   "smtp_port": 587,
-  "username": "sgvee18@gmail.com",
-  "password": "ozdx oudj ofaf vksy",
+  "username": "email@example.com",
+  "password": "app_password",
   "sender_name": "Automated Mailer",
   "subject": "Task 1 Testing",
   "body": "Hello,\n\nThis is an automated message sent from our email system.\n\nThank you for your attention.\n\nBest regards,\nAutomated Mailer",
