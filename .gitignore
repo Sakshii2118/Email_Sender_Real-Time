@@ -1,0 +1,11 @@
+# Ignore virtual environment
+TASK1PY_env/
+
+# Ignore Python cache files
+_pycache_/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+

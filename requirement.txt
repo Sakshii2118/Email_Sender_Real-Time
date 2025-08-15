@@ -1,0 +1,21 @@
+# Python Email Sender Requirements
+# No external dependencies required - uses Python standard library only
+
+# Standard library modules used:
+- smtplib (for SMTP email sending)
+- csv (for CSV file processing)
+- json (for configuration file parsing)
+- os (for environment variables and file operations)
+- time (for delays between emails)
+- re (for email validation regex)
+- datetime (for timestamps)
+- email.mime.text (for email message creation)
+- email.mime.multipart (for email message creation)
+- typing (for type hints)
+- logging (for logging functionality)
+
+# Optional: For enhanced email validation (uncomment if needed)
+email-validator==2.1.0
+
+# Optional: For environment variable management (uncomment if needed)
+python-dotenv==1.0.0

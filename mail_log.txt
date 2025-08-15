@@ -1,0 +1,157 @@
+2025-08-15 19:33:36 | INFO | === Email Sending Process Started ===
+2025-08-15 19:33:36 | INFO | Using SMTP Host: smtp.gmail.com:587
+2025-08-15 19:33:36 | INFO | Sender: sgvee18@gmail.com
+2025-08-15 19:33:36 | INFO | Delay between emails: 90 seconds
+2025-08-15 19:33:36 | INFO | Reading 25 lines from emails.csv
+2025-08-15 19:33:36 | INFO | Skipping header line: emails
+2025-08-15 19:33:36 | INFO | Processing line 2: sakshig1817@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: sakshig1817@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 3: garg.lucky1810@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: garg.lucky1810@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 4: invalid-email@@example..com
+2025-08-15 19:33:36 | invalid-email@@example..com | INVALID EMAIL
+2025-08-15 19:33:36 | INFO | Processing line 5: veegirl18@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: veegirl18@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 7: sakshig1817@gmail.com
+2025-08-15 19:33:36 | sakshig1817@gmail.com | DUPLICATE
+2025-08-15 19:33:36 | INFO | Processing line 8: rakhig1201@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: rakhig1201@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 9: Sakshi.Gupta2023@iem.edu.in
+2025-08-15 19:33:36 | INFO | Added valid email: Sakshi.Gupta2023@iem.edu.in
+2025-08-15 19:33:36 | INFO | Processing line 10: darshanpatildp275@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: darshanpatildp275@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 11: 2023is_darshanjomalingpatil_a@nie.ac.in
+2025-08-15 19:33:36 | INFO | Added valid email: 2023is_darshanjomalingpatil_a@nie.ac.in
+2025-08-15 19:33:36 | INFO | Processing line 12: darshanpatildp275@gmail.com
+2025-08-15 19:33:36 | darshanpatildp275@gmail.com | DUPLICATE
+2025-08-15 19:33:36 | INFO | Processing line 13: darshan
+2025-08-15 19:33:36 | darshan | INVALID EMAIL
+2025-08-15 19:33:36 | INFO | Processing line 15: darshanjomalingpatil@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: darshanjomalingpatil@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 16: asap88176@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: asap88176@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 17: remofernandez111@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: remofernandez111@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 18: chakrabortyreshmi401@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: chakrabortyreshmi401@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 20: royswapnil687@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: royswapnil687@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 21: reshmichakraborty2411gmail.com
+2025-08-15 19:33:36 | reshmichakraborty2411gmail.com | INVALID EMAIL
+2025-08-15 19:33:36 | INFO | Processing line 22: chakrabortyreshmi077@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: chakrabortyreshmi077@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 23: royswapnil687@gmail.com
+2025-08-15 19:33:36 | royswapnil687@gmail.com | DUPLICATE
+2025-08-15 19:33:36 | INFO | Processing line 24: baglakrishna6@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: baglakrishna6@gmail.com
+2025-08-15 19:33:36 | INFO | Processing line 25: mdasifahmed323@gmail.com
+2025-08-15 19:33:36 | INFO | Added valid email: mdasifahmed323@gmail.com
+2025-08-15 19:33:36 | INFO | Successfully loaded 15 valid unique emails
+2025-08-15 19:33:36 | INFO | Processing email 1/15: sakshig1817@gmail.com
+2025-08-15 19:33:41 | INFO | === Email Sending Process Completed ===
+2025-08-15 19:33:41 | INFO | SUMMARY:
+2025-08-15 19:33:41 | INFO | Total emails processed: 15
+2025-08-15 19:33:41 | INFO | Successfully sent: 0
+2025-08-15 19:33:41 | INFO | Failed sends: 0
+2025-08-15 19:33:41 | INFO | Invalid emails: 3
+2025-08-15 19:33:41 | INFO | Duplicate emails: 3
+2025-08-15 19:35:36 | INFO | === Email Sending Process Started ===
+2025-08-15 19:35:36 | INFO | Using SMTP Host: smtp.gmail.com:587
+2025-08-15 19:35:36 | INFO | Sender: sgvee18@gmail.com
+2025-08-15 19:35:36 | INFO | Delay between emails: 2 seconds
+2025-08-15 19:35:36 | INFO | Reading 25 lines from emails.csv
+2025-08-15 19:35:36 | INFO | Skipping header line: emails
+2025-08-15 19:35:36 | INFO | Processing line 2: sakshig1817@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: sakshig1817@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 3: garg.lucky1810@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: garg.lucky1810@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 4: invalid-email@@example..com
+2025-08-15 19:35:36 | invalid-email@@example..com | INVALID EMAIL
+2025-08-15 19:35:36 | INFO | Processing line 5: veegirl18@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: veegirl18@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 7: sakshig1817@gmail.com
+2025-08-15 19:35:36 | sakshig1817@gmail.com | DUPLICATE
+2025-08-15 19:35:36 | INFO | Processing line 8: rakhig1201@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: rakhig1201@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 9: Sakshi.Gupta2023@iem.edu.in
+2025-08-15 19:35:36 | INFO | Added valid email: Sakshi.Gupta2023@iem.edu.in
+2025-08-15 19:35:36 | INFO | Processing line 10: darshanpatildp275@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: darshanpatildp275@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 11: 2023is_darshanjomalingpatil_a@nie.ac.in
+2025-08-15 19:35:36 | INFO | Added valid email: 2023is_darshanjomalingpatil_a@nie.ac.in
+2025-08-15 19:35:36 | INFO | Processing line 12: darshanpatildp275@gmail.com
+2025-08-15 19:35:36 | darshanpatildp275@gmail.com | DUPLICATE
+2025-08-15 19:35:36 | INFO | Processing line 13: darshan
+2025-08-15 19:35:36 | darshan | INVALID EMAIL
+2025-08-15 19:35:36 | INFO | Processing line 15: darshanjomalingpatil@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: darshanjomalingpatil@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 16: asap88176@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: asap88176@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 17: remofernandez111@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: remofernandez111@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 18: chakrabortyreshmi401@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: chakrabortyreshmi401@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 20: royswapnil687@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: royswapnil687@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 21: reshmichakraborty2411gmail.com
+2025-08-15 19:35:36 | reshmichakraborty2411gmail.com | INVALID EMAIL
+2025-08-15 19:35:36 | INFO | Processing line 22: chakrabortyreshmi077@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: chakrabortyreshmi077@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 23: royswapnil687@gmail.com
+2025-08-15 19:35:36 | royswapnil687@gmail.com | DUPLICATE
+2025-08-15 19:35:36 | INFO | Processing line 24: baglakrishna6@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: baglakrishna6@gmail.com
+2025-08-15 19:35:36 | INFO | Processing line 25: mdasifahmed323@gmail.com
+2025-08-15 19:35:36 | INFO | Added valid email: mdasifahmed323@gmail.com
+2025-08-15 19:35:36 | INFO | Successfully loaded 15 valid unique emails
+2025-08-15 19:35:36 | INFO | Processing email 1/15: sakshig1817@gmail.com
+2025-08-15 19:35:42 | sakshig1817@gmail.com | SENT
+2025-08-15 19:35:42 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:35:44 | INFO | Processing email 2/15: garg.lucky1810@gmail.com
+2025-08-15 19:35:49 | garg.lucky1810@gmail.com | SENT
+2025-08-15 19:35:49 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:35:51 | INFO | Processing email 3/15: veegirl18@gmail.com
+2025-08-15 19:35:56 | veegirl18@gmail.com | SENT
+2025-08-15 19:35:56 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:35:58 | INFO | Processing email 4/15: rakhig1201@gmail.com
+2025-08-15 19:36:03 | rakhig1201@gmail.com | SENT
+2025-08-15 19:36:03 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:05 | INFO | Processing email 5/15: Sakshi.Gupta2023@iem.edu.in
+2025-08-15 19:36:09 | Sakshi.Gupta2023@iem.edu.in | SENT
+2025-08-15 19:36:09 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:11 | INFO | Processing email 6/15: darshanpatildp275@gmail.com
+2025-08-15 19:36:17 | darshanpatildp275@gmail.com | SENT
+2025-08-15 19:36:17 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:19 | INFO | Processing email 7/15: 2023is_darshanjomalingpatil_a@nie.ac.in
+2025-08-15 19:36:24 | 2023is_darshanjomalingpatil_a@nie.ac.in | SENT
+2025-08-15 19:36:24 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:26 | INFO | Processing email 8/15: darshanjomalingpatil@gmail.com
+2025-08-15 19:36:31 | darshanjomalingpatil@gmail.com | SENT
+2025-08-15 19:36:31 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:33 | INFO | Processing email 9/15: asap88176@gmail.com
+2025-08-15 19:36:39 | asap88176@gmail.com | SENT
+2025-08-15 19:36:39 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:41 | INFO | Processing email 10/15: remofernandez111@gmail.com
+2025-08-15 19:36:46 | remofernandez111@gmail.com | SENT
+2025-08-15 19:36:46 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:48 | INFO | Processing email 11/15: chakrabortyreshmi401@gmail.com
+2025-08-15 19:36:54 | chakrabortyreshmi401@gmail.com | SENT
+2025-08-15 19:36:54 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:36:56 | INFO | Processing email 12/15: royswapnil687@gmail.com
+2025-08-15 19:37:01 | royswapnil687@gmail.com | SENT
+2025-08-15 19:37:01 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:37:03 | INFO | Processing email 13/15: chakrabortyreshmi077@gmail.com
+2025-08-15 19:37:07 | chakrabortyreshmi077@gmail.com | SENT
+2025-08-15 19:37:07 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:37:09 | INFO | Processing email 14/15: baglakrishna6@gmail.com
+2025-08-15 19:37:14 | baglakrishna6@gmail.com | SENT
+2025-08-15 19:37:14 | INFO | Waiting 2 seconds before next email...
+2025-08-15 19:37:16 | INFO | Processing email 15/15: mdasifahmed323@gmail.com
+2025-08-15 19:37:21 | mdasifahmed323@gmail.com | SENT
+2025-08-15 19:37:21 | INFO | === Email Sending Process Completed ===
+2025-08-15 19:37:21 | INFO | SUMMARY:
+2025-08-15 19:37:21 | INFO | Total emails processed: 15
+2025-08-15 19:37:21 | INFO | Successfully sent: 15
+2025-08-15 19:37:21 | INFO | Failed sends: 0
+2025-08-15 19:37:21 | INFO | Invalid emails: 3
+2025-08-15 19:37:21 | INFO | Duplicate emails: 3
